@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* 
+.building{
+    width: 1370px;
+    height:450px;
+}
+.road{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJZOjjb2JpiAHbdZ-zGeXWUZQOS4ybLL5Rw&usqp=CAU");
+} */
+
+#back{
+    background: url("./building.jpeg");
+    background-repeat: no-repeat;
+    width: auto;
+    height:470px ;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position-y: -98px;
+}
+#road{
+    background: url("https://img.freepik.com/premium-photo/top-view-asphalt-road_51195-810.jpg?w=360");
+    height: 176px;
+}
+img{
+    width: 170px;
+    margin-top: 20px; 
+
+}
+.btn1{
+    background-color: yellow;
+    width: 130px;
+    font-size: 30px;
+    cursor: pointer;
+    margin-top: 20px;
+
+}
+#btn{
+    margin-left: 530px;
+}
